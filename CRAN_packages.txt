@@ -1,4 +1,3 @@
-Seurat
 circlize
 gridExtra
 statmod
@@ -6,14 +5,10 @@ ggalt
 magick
 sctransform
 Rcpp
-ggpubr
-SoupX
 metap
-glmnet
 RCircos
 magrittr
 stringr
-ggplot2
 pROC
 igraph
 RColorBrewer
@@ -25,7 +20,7 @@ ggExtra
 foreach
 doParallel
 do
-BPCells
-presto
-glmGamPoi
-Signac
+dplyr
+ggplot2
+ggpubr
+ggbeeswarm
