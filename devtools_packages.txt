@@ -1,0 +1,5 @@
+satijalab/seurat-data SeuratData
+satijalab/azimuth Azimuth
+satijalab/seurat-wrappers SeuratWrappers
+jinworks/CellChat CellChat
+erocoar/gghalves gghalves
