@@ -18,3 +18,4 @@ polars[numpy,pandas,pyarrow]
 pyslow5
 statsmodels
 hdbscan
+NanoCount
