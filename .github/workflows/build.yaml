@@ -8,6 +8,7 @@ on:
         - 'devtools_packages.txt'
         - 'Dockerfile'
         - 'install_packages.R'
+        - 'requirements.txt'
   release:
   workflow_dispatch:
 
