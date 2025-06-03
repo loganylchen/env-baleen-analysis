@@ -19,3 +19,4 @@ pyslow5
 statsmodels
 hdbscan
 NanoCount
+fastcluster
